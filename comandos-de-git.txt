@@ -1,2 +1,2 @@
-git status
+git status --> Print the satus of the Git repository
 git init
