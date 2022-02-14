@@ -1,2 +1,6 @@
-git status --> Print the satus of the Git repository
-git init
+git status --> Print the satus of the Git repository.
+git init--> initializes the Git Repository
+git add *
+git commit -m ""
+git log
+Git diff <file name> --> Me muestras las diferencias entre lo que estaba en el archivo local y lo que se agregó al archivo local (antes de que pase a stage). 
