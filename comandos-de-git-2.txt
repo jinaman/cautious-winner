@@ -1,9 +1,9 @@
 git status --> Print the satus of the Git repository.
 git init--> initializes the Git Repository
 git config --global user.name "jinaman" --> Username de Github
-git config --global user.email asd@asd.com --> Los global es para dar autoriazacion a todos los repositorios
-git config user.name "jinaman" --> Username de Github
-git config user.email asd@asd.com --> Sin el global es para dar autorización a un solo repositorio
+git config --global user.email asd@asd.com --> Los global es para dar autoriazacion a todos los repositorios.
+git config user.name "jinaman" --> Username de Github.
+git config user.email asd@asd.com --> Sin el global es para dar autorización a un solo repositorio.
 git add *
 git commit -m ""
 git log
