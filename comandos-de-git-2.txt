@@ -4,9 +4,10 @@ git config --global user.name "jinaman" --> Username de Github
 git config --global user.email asd@asd.com --> Los global es para dar autoriazacion a todos los repositorios.
 git config user.name "jinaman" --> Username de Github.
 git config user.email asd@asd.com --> Sin el global es para dar autorización a un solo repositorio.
-git add *
-git commit -m ""
-git log
-Git diff <file name> --> Me muestras las diferencias entre lo que estaba en el archivo local y lo que se agregó al archivo local (antes de que pase a stage). 
-git push -u origin master
+git add *    --> Add file to staging environment
+git commit -m ""       --> Commit file to local Git Repository
+git log                --> Check file log history
+Git diff <file name>   --> Me muestras las diferencias entre lo que estaba en el archivo local y lo que se agregó al archivo local (antes de que pase a stage). 
+git remote add origin <GitHub Repository URL> --> Establish connection to the remote GitHub Repository  
+git push -u origin master o git push origin master -->  Push to master branch (al remoto)
 git pull
