@@ -13,3 +13,4 @@ git push -u origin master                     --> (o git push origin master) Pus
 git pull                                      --> Lo 1ro que tengo que hacer, siempre. Bajar el codigo del maste branch.
 
 11111111
+
