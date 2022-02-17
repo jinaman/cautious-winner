@@ -12,4 +12,5 @@ git remote add origin <GitHub Repository URL> --> Establish connection to the re
 git push -u origin master                     --> (o git push origin master) Push to master branch (al remoto)
 git pull                                      --> Lo 1ro que tengo que hacer, siempre. Bajar el codigo del maste branch.
 
-Changes of branch 2
+11111111
+
