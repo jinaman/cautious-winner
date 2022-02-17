@@ -11,3 +11,6 @@ Git diff <file name>                          --> Me muestras las diferencias en
 git remote add origin <GitHub Repository URL> --> Establish connection to the remote GitHub Repository  
 git push -u origin master                     --> (o git push origin master) Push to master branch (al remoto)
 git pull                                      --> Lo 1ro que tengo que hacer, siempre. Bajar el codigo del maste branch.
+
+11111111
+22222222
